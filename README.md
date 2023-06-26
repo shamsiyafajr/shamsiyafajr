@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [(coming soon)]((coming soon))
 
-- 📝 I regularly write articles on [(coming soon)]((coming soon))
+- 📝 I read my  articles on [Medium](https://medium.com/@shamsiyashams)
 
 - 💬 Ask me about **ML, Python, Javascript, Writing Research Proposal**
 
@@ -36,3 +36,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamsiyafajr&show_icons=true&locale=en&layout=compact" alt="shamsiyafajr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamsiyafajr&show_icons=true&locale=en" alt="shamsiyafajr" /></p>
+
+
+<div align="center">
+<img align=top src="./Images/tumblr_11d365a49f6f66dee03353309bf82414_8f4b05ff_540.gif" height="192px">
+</br>
+<i><q>That’s what the world is, after all: an endless battle of contrasting memories.</q></i>
+</div> 

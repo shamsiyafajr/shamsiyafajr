@@ -1,5 +1,4 @@
-
-<img src="https://github.com/shamsiyafajr/shamsiyafajr/me.png" alt="banner that says Kelechi Precious Nwachukwu - code newbie always. content curator. contributing for good alongside an oil paint illustration of Kelechi"> 
+<img src="https://github.com/shamsiyafajr/shamsiyafajr/blob/main/me.gif?raw=true"> 
 
 <img src="Blush Wave LinkedIn Banner.gif" width="30px" height="30px" />  
 <h1 align="center">Hi 👋, I'm Shamsiya Shamsudheen</h1>
